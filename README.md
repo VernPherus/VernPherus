@@ -1,4 +1,4 @@
-# Hello there, I'm VernPherus
+# *There is nothing we can do.*
 
 Just a programmer starting out to git gud
 
