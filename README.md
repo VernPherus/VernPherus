@@ -1,6 +1,6 @@
-# *There is nothing we can do.*
+# *"Programming isn't about what you know; it's about what you can figure out.” -Chris Pine*
 
-Just a programmer starting out to git gud
+Just a programmer on a journey.
 
 <!---
 - 👀 I’m interested in ...
